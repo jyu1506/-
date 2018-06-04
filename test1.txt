@@ -1,7 +1,12 @@
 public void test£¨£©
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 public void test1£¨£©
+=======
+
+public void test2£¨£©
+>>>>>>> Branch_master
 =======
 
 public void test2£¨£©
