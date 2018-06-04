@@ -1,3 +1,8 @@
 public void test£¨£©
 
+<<<<<<< HEAD
 public void test1£¨£©
+=======
+
+public void test2£¨£©
+>>>>>>> Branch_master
